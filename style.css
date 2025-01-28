@@ -3,3 +3,12 @@
     height: 250px;
     background-color: red;
 }
+
+.result {
+    width: 400px;
+    height: 500px;
+    margin:  0 auto;
+    background-color: greenyellow;
+    border-radius: 10px;
+    text-align: center;
+}
