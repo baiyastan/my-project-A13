@@ -9,3 +9,5 @@ result.innerHTML = "Hello Ariet"
 let about = document.querySelector(".about")
 
 about.innerHTML = "hello git"
+
+let content = document.querySelector(".content")
